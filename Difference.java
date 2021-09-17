@@ -15,6 +15,8 @@ public class Difference{
 
         System.out.println("new changes");
 
+        System.out.println(a+b);
+
     }
 
 }
