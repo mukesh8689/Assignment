@@ -9,6 +9,10 @@ public class Difference{
         int b=2;
         System.out.println(2*a-2*b);
         System.out.println("getting subtracted");
+
+        System.out.println("mukeshk");
+        System.out.println("shakshi");
+
     }
 
 }
