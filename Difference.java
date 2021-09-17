@@ -17,7 +17,7 @@ public class Difference{
 
         System.out.println(a+b);
 
-        //pushing hhig
+        //pushing hhigrt
     }
 
 }
